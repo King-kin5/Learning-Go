@@ -18,3 +18,4 @@ Loop Control (continue, break):
 The use of continue to skip the rest of the loop body and move on to the next iteration in case of invalid user input.
 The use of break to exit the loop when the correct guess is made.
 Overall Game Flow
+
